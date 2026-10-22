@@ -1,0 +1,12 @@
+{
+  "orders": "causetrail_shop.main.orders",
+  "order_items": "causetrail_shop.main.order_items",
+  "payments": "causetrail_shop.main.payments",
+  "refunds": "causetrail_shop.main.refunds",
+  "ad_spend": "causetrail_files.default.ad_spend",
+  "support_tickets": "causetrail_files.default.support_tickets",
+  "skus": "causetrail_files.default.skus",
+  "warehouses": "causetrail_files.default.warehouses",
+  "suppliers": "causetrail_files.default.suppliers",
+  "lead_times": "causetrail_files.default.lead_times"
+}
